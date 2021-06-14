@@ -1,0 +1,46 @@
+{
+  "server": [
+    {
+      "id": "547905866255433758",
+      "avatar": "https://cdn.discordapp.com/avatars/547905866255433758/6db57ae216790490f53cbd9e2a49d486.png?size=2048",
+      "ntg": 1,
+      "btc": 4,
+      "code": "9EeOROuh3CPWchxUEsWK"
+    },
+    {
+      "id": "853408207735881738",
+      "avatar": "https://cdn.discordapp.com/avatars/853408207735881738/009ef4603b9180e149c0bf322c3455a6.png?size=2048",
+      "ntg": 1,
+      "btc": 1.412773218339,
+      "code": "lSc1zGBvNcB0c6fOlyHn"
+    },
+    {
+      "id": "847297278556635187",
+      "avatar": "https://cdn.discordapp.com/avatars/847297278556635187/a_5ade5064e28afeda26cf6240ceb37509.gif",
+      "ntg": 1,
+      "btc": 0.00042300000000000004,
+      "code": "RxnTtcHs4d0TLOFdIDAv"
+    },
+    {
+      "id": "302064967861927938",
+      "avatar": "https://cdn.discordapp.com/avatars/302064967861927938/b366e265b8fc0990f4137cc7fb3b2d09.png?size=2048",
+      "ntg": 1,
+      "btc": 0.000001,
+      "code": "gGDtXuTFAeah9EYwli8T"
+    },
+    {
+      "id": "847297278556635187",
+      "avatar": "https://cdn.discordapp.com/avatars/847297278556635187/a_e5aa797b5ae16a4a5b8c68d78b12c042.gif",
+      "ntg": 1,
+      "btc": 0,
+      "code": "7XVeFKsuDoLXxUlilvEe"
+    },
+    {
+      "id": "560263335405158401",
+      "avatar": "https://cdn.discordapp.com/avatars/560263335405158401/75901bbbf9cd2a2c5f610405382c4803.png?size=2048",
+      "ntg": 1,
+      "btc": 0.000001,
+      "code": "jhI7NElswCDexZZsDNX5"
+    }
+  ]
+}

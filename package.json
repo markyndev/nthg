@@ -1,0 +1,16 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "descricao",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "dependencies": {
+    "crypto-convert": "^1.0.4",
+    "discord.js": "^11.6.4",
+    "download-file": "^0.1.5",
+    "lowdb": "^1.0.0",
+    "nodejs-currency-converter": "^1.0.2",
+    "qrcode": "^1.4.4"
+  }
+}
