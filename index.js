@@ -435,4 +435,4 @@ let i2 = new Discord.RichEmbed()
   }
 
 });
-client.login("ODUzNDA4MjA3NzM1ODgxNzM4.YMU8VA.VdtlOPugLbYGmsXVrQ0hZQzBPx4");
+client.login("");
