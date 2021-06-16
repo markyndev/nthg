@@ -1,4 +1,5 @@
-# NTHG - Wallet Manager.
+
+![logo](https://media.discordapp.net/attachments/852982490749992960/854163860793196574/PicsArt_06-14-10.02.03.png?width=588&height=273)
 
 NTHG is an open-source project for managing virtual wallets, using the NTC(Nothing Coin) currency, where your wallet can be accessed by your browser or by discord.
 
