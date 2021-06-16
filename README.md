@@ -17,4 +17,5 @@ Commands   | What he does
 ## Development team
 
 @markyndev - [Twitter](https://twitter.com/markyndev) / [Github](https://github.com/markyndev)
+
 @daviimrt - [Twitter](https://twitter.com/eudavidi) / [Github](https://github.com/daviimrt)
